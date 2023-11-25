@@ -1,0 +1,8 @@
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\bin\Debug\lab009.exe.config
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\bin\Debug\lab009.exe
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\bin\Debug\lab009.pdb
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\obj\Debug\lab009.csproj.AssemblyReference.cache
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\obj\Debug\lab009.csproj.SuggestedBindingRedirects.cache
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\obj\Debug\lab009.csproj.CoreCompileInputs.cache
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\obj\Debug\lab009.exe
+C:\Users\denyx\OneDrive\Desktop\Test\lab009\obj\Debug\lab009.pdb
